@@ -1,3 +1,4 @@
-#wall .tag-1, #wall div#tag-2, div#wall #tag-3.slick.wicked {
+#wall .tag-1, #wall div#tag-2, div#wall #tag-3.slick.wicked,
+  #wall .parent .tag-4 {
   display: none;
 }
